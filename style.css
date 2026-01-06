@@ -42,3 +42,11 @@ main { padding: 14px; max-width: 980px; margin:0 auto; display:grid; gap:12px; }
 .warn { margin-top:6px; color: #ffd27a; }
 footer { padding: 12px 14px 20px; text-align:center; color: var(--muted); }
 code { background: #0f0f14; border:1px solid var(--line); padding: 1px 6px; border-radius: 8px; }
+
+
+.logoimg{
+  width:40px;
+  height:40px;
+  border-radius:12px;
+  display:block;
+}

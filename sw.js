@@ -1,12 +1,15 @@
 
-const CACHE = 'vocabcycle-v2';
+const CACHE = 'vocabook-v4';
 const ASSETS = [
   './',
   './index.html',
   './style.css',
   './app.js',
   './manifest.json',
-  './words.json'
+  './words.json',
+  './icon-192.png',
+  './icon-512.png',
+  './logo-64.png'
 ];
 
 self.addEventListener('install', (event) => {
