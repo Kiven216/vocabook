@@ -1,5 +1,5 @@
 
-const CACHE = 'vocabcycle-v1';
+const CACHE = 'vocabcycle-v2';
 const ASSETS = [
   './',
   './index.html',

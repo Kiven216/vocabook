@@ -258,9 +258,22 @@ async function showDetail(id){
 }
 
 function pickContextSentence(w){
-  const s = w.senses?.[w.core_sense||0] || w.senses?.[0];
-  if (!s) return '';
-  return (s.examples && s.examples.length) ? s.examples[0] : '';
+  // Pick a random context sentence from the *core* sense examples.
+  // If core sense has no examples, fall back to any example across senses.
+  const coreIdx = (w.core_sense ?? 0);
+  const core = (w.senses && w.senses[coreIdx]) ? w.senses[coreIdx] : (w.senses ? w.senses[0] : null);
+
+  let pool = [];
+  if (core && Array.isArray(core.examples)) pool = core.examples.slice();
+
+  if (!pool.length && Array.isArray(w.senses)){
+    for (const s of w.senses){
+      if (Array.isArray(s.examples) && s.examples.length) pool = pool.concat(s.examples);
+    }
+  }
+
+  if (!pool.length) return '';
+  return pool[Math.floor(Math.random() * pool.length)];
 }
 
 async function renderReviewNew(){

@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "generated_at": "2026-01-06T03:42:24.539582Z",
+  "version": 2,
+  "generated_at": "2026-01-06T05:44:22.986607Z",
   "items": [
     {
       "id": "exhilaration",
@@ -23,7 +23,8 @@
           "definition_en": "intense excitement that often masks rising risk",
           "examples": [
             "The exhilaration of rapid gains often appears near market tops.",
-            "Exhilaration can lead investors to abandon discipline."
+            "Exhilaration can lead investors to abandon discipline.",
+            "She felt a rush of exhilaration at the top of the mountain."
           ],
           "cycle_note": "情绪领先于基本面的典型信号"
         }
@@ -49,7 +50,8 @@
           "definition_en": "almost; nearly (formal)",
           "examples": [
             "Predicting the exact market top is nigh impossible.",
-            "When leverage is high, a small shock can make failure nigh inevitable."
+            "When leverage is high, a small shock can make failure nigh inevitable.",
+            "Without sleep, it was nigh impossible to focus."
           ],
           "cycle_note": "常与 impossible / inevitable 搭配"
         }
@@ -76,7 +78,8 @@
           "definition_en": "in accordance with",
           "examples": [
             "Pursuant to the strategy, exposure was reduced late in the cycle.",
-            "Pursuant to policy, positions were rebalanced monthly."
+            "Pursuant to policy, positions were rebalanced monthly.",
+            "Pursuant to the contract, the payment is due on Friday."
           ],
           "cycle_note": "偏正式语体，常见于制度/规则描述"
         }
@@ -103,7 +106,8 @@
           "definition_en": "caught by surprise; hit unexpectedly",
           "examples": [
             "Investors were blindsided by the speed of the downturn.",
-            "Markets can be blindsided when liquidity disappears overnight."
+            "Markets can be blindsided when liquidity disappears overnight.",
+            "She was blindsided by the sudden change in plans."
           ],
           "cycle_note": "常对应“风险被忽视→突然爆发”"
         }
@@ -129,7 +133,8 @@
           "definition_en": "improvement, especially gradual and long-term",
           "examples": [
             "Long-term investing focuses on gradual betterment, not short-term excitement.",
-            "Small process changes can lead to steady betterment in results."
+            "Small process changes can lead to steady betterment in results.",
+            "He worked for the betterment of his community."
           ],
           "cycle_note": "不等于短期暴利，更偏“持续优化”"
         }
@@ -156,7 +161,8 @@
           "definition_en": "pay attention to; take seriously",
           "examples": [
             "Few investors heed warnings during periods of euphoria.",
-            "Heed the cycle’s message: easy gains rarely last."
+            "Heed the cycle’s message: easy gains rarely last.",
+            "He failed to heed the warning signs and drove too fast."
           ],
           "cycle_note": "顶部最难做到：听得进“风险提醒”"
         }
@@ -183,7 +189,8 @@
           "definition_en": "always or almost always",
           "examples": [
             "Excessive optimism is invariably followed by disappointment.",
-            "In markets, extreme narratives are invariably punished."
+            "In markets, extreme narratives are invariably punished.",
+            "If you rush, you invariably make more mistakes."
           ],
           "cycle_note": "用于强调“规律性/高概率后果”"
         }
@@ -209,7 +216,8 @@
           "definition_en": "a particular style or quality (in the vein of)",
           "examples": [
             "His analysis is in the vein of classic market-cycle theory.",
-            "In the same vein, credit cycles often lead equity cycles."
+            "In the same vein, credit cycles often lead equity cycles.",
+            "In the same vein, we should double-check the assumptions."
           ],
           "cycle_note": "金融写作里常用固定搭配：in the vein of"
         }
@@ -236,7 +244,8 @@
           "definition_en": "cause widespread damage or chaos",
           "examples": [
             "Leverage can wreak havoc when the cycle turns.",
-            "Liquidity shortages wreak havoc on overextended investors."
+            "Liquidity shortages wreak havoc on overextended investors.",
+            "The storm wreaked havoc on the power grid."
           ],
           "cycle_note": "下行阶段才“真正体会”的词"
         }
@@ -289,7 +298,8 @@
           "definition_en": "the state of being alone, often by choice",
           "examples": [
             "Intelligent investing often requires solitude from the crowd.",
-            "Solitude helps you think when the market is shouting."
+            "Solitude helps you think when the market is shouting.",
+            "He enjoyed solitude during early-morning walks."
           ],
           "cycle_note": "逆周期思考往往是孤独的"
         }
@@ -315,7 +325,8 @@
           "definition_en": "a standpoint or attitude",
           "examples": [
             "His cautious stance preserved capital late in the cycle.",
-            "A consistent stance beats impulsive reactions."
+            "A consistent stance beats impulsive reactions.",
+            "She took a firm stance on the issue."
           ],
           "cycle_note": "不等于短期观点（opinion），更像长期态度"
         }
@@ -341,7 +352,9 @@
           "definition_en": "to gather or earn, especially gradually",
           "examples": [
             "Conservative strategies rarely garner praise at market tops.",
-            "The fund garnered attention after a strong downside defense."
+            "The fund garnered attention after a strong downside defense.",
+            "The campaign quickly garnered donations from small supporters.",
+            "Her research garnered international recognition."
           ],
           "cycle_note": "常搭配：garner support/attention/returns"
         }
@@ -394,7 +407,8 @@
           "definition_en": "originating outside the system",
           "examples": [
             "The crisis was triggered by an exogenous shock.",
-            "Exogenous events often accelerate an already fragile cycle."
+            "Exogenous events often accelerate an already fragile cycle.",
+            "In biology, exogenous substances come from outside the organism."
           ],
           "cycle_note": "通常是“点火器”，不是根因"
         }
@@ -421,7 +435,9 @@
           "definition_en": "calm, rational, not influenced by emotion",
           "examples": [
             "A sober assessment of risk is rare near market peaks.",
-            "Sober investors reduce exposure when optimism dominates."
+            "Sober investors reduce exposure when optimism dominates.",
+            "After the celebration, he took a sober look at his budget.",
+            "Try to stay sober when emotions run high."
           ],
           "cycle_note": "逆周期品质，顶部最稀缺"
         },
@@ -430,7 +446,8 @@
           "definition_cn": "严肃的、现实的（面对不利事实）",
           "definition_en": "serious and realistic",
           "examples": [
-            "The downturn forced a sober view of future returns."
+            "The downturn forced a sober view of future returns.",
+            "It was a sober reminder that mistakes have consequences."
           ],
           "cycle_note": "多见于下行初期/中后段"
         }
@@ -457,7 +474,8 @@
           "definition_en": "in a favorable way; at an auspicious time",
           "examples": [
             "Liquidity tightened just as valuations peaked, propitiously for a correction.",
-            "He entered propitiously when fear was widespread."
+            "He entered propitiously when fear was widespread.",
+            "They met propitiously, right before the project began."
           ],
           "cycle_note": "强调“时机与条件”而非纯运气"
         }
@@ -484,7 +502,8 @@
           "definition_en": "intensely happy or excited (often excessive)",
           "examples": [
             "Euphoric sentiment is often the final stage of a bull market.",
-            "When headlines turn euphoric, future returns tend to shrink."
+            "When headlines turn euphoric, future returns tend to shrink.",
+            "He was euphoric after hearing the good news."
           ],
           "cycle_note": "比 exhilaration 更极端，常见于牛市末段"
         }
@@ -511,7 +530,9 @@
           "definition_en": "extremely bad or unpleasant",
           "examples": [
             "An atrocious decision can still look rational from the decision-maker’s perspective.",
-            "Atrocious timing often comes from chasing recent returns."
+            "Atrocious timing often comes from chasing recent returns.",
+            "The weather was atrocious all weekend.",
+            "He apologized for his atrocious behavior."
           ],
           "cycle_note": "用于强烈评价（慎用但很有力）"
         }
@@ -538,7 +559,9 @@
           "definition_en": "to seem especially important or threatening",
           "examples": [
             "Recent losses loom large, making investors overly cautious.",
-            "A vivid story can loom large even when the data disagrees."
+            "A vivid story can loom large even when the data disagrees.",
+            "The deadline loomed large in everyone’s mind.",
+            "Past mistakes can loom large and distort new decisions."
           ],
           "cycle_note": "讲“心理权重”而非客观概率"
         }
@@ -565,7 +588,9 @@
           "definition_en": "exaggerated statements not meant to be taken literally",
           "examples": [
             "Market commentary is full of hyperbole near turning points.",
-            "Hyperbole spreads faster than nuance on social media."
+            "Hyperbole spreads faster than nuance on social media.",
+            "Calling it a 'disaster' was pure hyperbole.",
+            "Sales pitches often rely on hyperbole more than facts."
           ],
           "cycle_note": "顶部/底部叙事常“夸张化”"
         }
@@ -592,7 +617,9 @@
           "definition_en": "aptness of expression; (less common) happiness",
           "examples": [
             "The felicity of his wording made the idea easy to remember.",
-            "A little felicity in phrasing can clarify a messy financial concept."
+            "A little felicity in phrasing can clarify a messy financial concept.",
+            "There is a felicity in his writing that makes complex ideas feel simple.",
+            "She admired the felicity of that one-line summary."
           ],
           "cycle_note": "在阅读里常指“用词贴切”，不是泛指快乐"
         }
@@ -618,7 +645,9 @@
           "definition_en": "to make less severe or harmful",
           "examples": [
             "Diversification can mitigate drawdowns, but it won’t eliminate them.",
-            "Worries don't mitigate tomorrow's pain, but decrease today's strength."
+            "Worries don't mitigate tomorrow's pain, but decrease today's strength.",
+            "Wearing sunscreen helps mitigate skin damage.",
+            "The new policy aims to mitigate delays."
           ],
           "cycle_note": "常搭配：mitigate risk/damage/impact"
         }
@@ -645,7 +674,9 @@
           "definition_en": "to try to achieve; to chase",
           "examples": [
             "Pursuing returns without a margin of safety invites ruin.",
-            "The smartest path is pursuing outcomes within an acceptable range."
+            "The smartest path is pursuing outcomes within an acceptable range.",
+            "She decided to pursue a career in design.",
+            "The dog pursued the ball across the yard."
           ],
           "cycle_note": "在投资语境里常带“追逐/追涨杀跌”的风险含义"
         }
