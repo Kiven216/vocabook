@@ -1,0 +1,168 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="theme-color" content="#111111" />
+  <link rel="manifest" href="manifest.json" />
+  <link rel="stylesheet" href="style.css" />
+  <title>Vocab Cycle</title>
+</head>
+<body>
+  <header>
+    <div class="brand">
+      <div class="logo">VC</div>
+      <div>
+        <div class="title">Vocab Cycle</div>
+        <div class="subtitle">Market Cycle & Psychology vocab — offline</div>
+      </div>
+    </div>
+    <nav>
+      <button class="tab active" data-tab="review">Review</button>
+      <button class="tab" data-tab="library">Library</button>
+      <button class="tab" data-tab="add">Add</button>
+      <button class="tab" data-tab="importexport">Import/Export</button>
+    </nav>
+  </header>
+
+  <main>
+    <!-- REVIEW -->
+    <section id="tab-review" class="tabpane active">
+      <div class="card">
+        <div class="row space">
+          <div class="badge" id="review-tags"></div>
+          <div class="row">
+            <button id="btn-speak" class="ghost" title="Speak">🔊</button>
+            <button id="btn-next" class="ghost" title="Next">Next ⟶</button>
+          </div>
+        </div>
+
+        <div class="word" id="review-word">Loading…</div>
+        <div class="context" id="review-context"></div>
+
+        <div class="options" id="review-options"></div>
+
+        <div class="result" id="review-result"></div>
+
+        <details id="review-details" class="details">
+          <summary>Show explanation</summary>
+          <div id="review-explanation"></div>
+        </details>
+      </div>
+
+      <div class="hint">
+        Tip: wrong answers will show up more often. Add tags like <code>cycle-top</code>, <code>risk</code>, <code>psychology_of_money</code>.
+      </div>
+    </section>
+
+    <!-- LIBRARY -->
+    <section id="tab-library" class="tabpane">
+      <div class="card">
+        <div class="row space">
+          <input id="search" class="input" placeholder="Search word…" />
+          <select id="tag-filter" class="input"></select>
+        </div>
+        <div id="library-list" class="list"></div>
+      </div>
+
+      <div class="card">
+        <div class="row space">
+          <div>
+            <div class="small">Selected</div>
+            <div class="word smallword" id="detail-word">—</div>
+            <div class="small" id="detail-meta"></div>
+          </div>
+          <div class="row">
+            <button id="detail-speak" class="ghost">🔊</button>
+            <button id="detail-edit" class="ghost">Edit</button>
+          </div>
+        </div>
+        <div id="detail-body"></div>
+      </div>
+    </section>
+
+    <!-- ADD/EDIT -->
+    <section id="tab-add" class="tabpane">
+      <div class="card">
+        <div class="row space">
+          <div>
+            <div class="small">Add / Edit word</div>
+            <div class="small">Supports multiple senses and multiple examples.</div>
+          </div>
+          <button id="form-reset" class="ghost">Clear</button>
+        </div>
+
+        <form id="word-form">
+          <div class="grid2">
+            <div>
+              <label>Word</label>
+              <input id="f-word" class="input" required />
+            </div>
+            <div>
+              <label>Part of speech</label>
+              <input id="f-pos" class="input" placeholder="noun / verb / phrase…" />
+            </div>
+          </div>
+
+          <div class="grid2">
+            <div>
+              <label>Tags (comma-separated)</label>
+              <input id="f-tags" class="input" placeholder="cycle-top, risk, psychology_of_money" />
+            </div>
+            <div>
+              <label>IPA (optional)</label>
+              <input id="f-ipa" class="input" placeholder="e.g., /ˈsəʊbə/" />
+            </div>
+          </div>
+
+          <div class="row space">
+            <div class="small">Senses JSON</div>
+            <button type="button" id="sense-template" class="ghost">Insert template</button>
+          </div>
+          <textarea id="f-senses" class="textarea" rows="10"></textarea>
+
+          <button class="primary" type="submit">Save</button>
+          <div class="small" id="form-status"></div>
+        </form>
+      </div>
+    </section>
+
+    <!-- IMPORT / EXPORT -->
+    <section id="tab-importexport" class="tabpane">
+      <div class="card">
+        <div class="row space">
+          <div>
+            <div class="small">Export</div>
+            <div class="small">Backup your data as JSON.</div>
+          </div>
+          <button id="btn-export" class="primary">Export JSON</button>
+        </div>
+      </div>
+
+      <div class="card">
+        <div class="row space">
+          <div>
+            <div class="small">Import</div>
+            <div class="small">Paste JSON exported by this app, or the provided <code>words.json</code> format.</div>
+          </div>
+          <button id="btn-import" class="primary">Import JSON</button>
+        </div>
+        <textarea id="import-text" class="textarea" rows="10" placeholder='Paste JSON here...'></textarea>
+        <div class="small" id="import-status"></div>
+      </div>
+
+      <div class="card">
+        <div class="small">Reset</div>
+        <button id="btn-reset" class="danger">Reset all local data</button>
+        <div class="small warn">This clears IndexedDB storage on this device only.</div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="small">Offline PWA • Data stored locally (IndexedDB) • 🔊 uses device text-to-speech by default</div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

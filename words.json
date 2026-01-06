@@ -1,0 +1,655 @@
+{
+  "version": 1,
+  "generated_at": "2026-01-06T03:42:24.539582Z",
+  "items": [
+    {
+      "id": "exhilaration",
+      "word": "exhilaration",
+      "pos": "noun",
+      "tags": [
+        "cycle-top",
+        "psychology",
+        "sentiment"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "兴奋、狂喜（周期后段常见，容易掩盖风险）",
+          "definition_en": "intense excitement that often masks rising risk",
+          "examples": [
+            "The exhilaration of rapid gains often appears near market tops.",
+            "Exhilaration can lead investors to abandon discipline."
+          ],
+          "cycle_note": "情绪领先于基本面的典型信号"
+        }
+      ]
+    },
+    {
+      "id": "nigh",
+      "word": "nigh",
+      "pos": "adverb",
+      "tags": [
+        "writing",
+        "intensity"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "几乎；接近（书面/正式用法）",
+          "definition_en": "almost; nearly (formal)",
+          "examples": [
+            "Predicting the exact market top is nigh impossible.",
+            "When leverage is high, a small shock can make failure nigh inevitable."
+          ],
+          "cycle_note": "常与 impossible / inevitable 搭配"
+        }
+      ]
+    },
+    {
+      "id": "pursuant_to",
+      "word": "pursuant (to)",
+      "pos": "preposition",
+      "tags": [
+        "formal",
+        "process",
+        "rules"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "根据；依照（多用于规则/条款/流程）",
+          "definition_en": "in accordance with",
+          "examples": [
+            "Pursuant to the strategy, exposure was reduced late in the cycle.",
+            "Pursuant to policy, positions were rebalanced monthly."
+          ],
+          "cycle_note": "偏正式语体，常见于制度/规则描述"
+        }
+      ]
+    },
+    {
+      "id": "blindsided",
+      "word": "blindsided",
+      "pos": "adjective/verb",
+      "tags": [
+        "risk",
+        "surprise",
+        "downturn"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "措手不及；被突然打击",
+          "definition_en": "caught by surprise; hit unexpectedly",
+          "examples": [
+            "Investors were blindsided by the speed of the downturn.",
+            "Markets can be blindsided when liquidity disappears overnight."
+          ],
+          "cycle_note": "常对应“风险被忽视→突然爆发”"
+        }
+      ]
+    },
+    {
+      "id": "betterment",
+      "word": "betterment",
+      "pos": "noun",
+      "tags": [
+        "long-term",
+        "improvement"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "改善；提升（偏长期、渐进）",
+          "definition_en": "improvement, especially gradual and long-term",
+          "examples": [
+            "Long-term investing focuses on gradual betterment, not short-term excitement.",
+            "Small process changes can lead to steady betterment in results."
+          ],
+          "cycle_note": "不等于短期暴利，更偏“持续优化”"
+        }
+      ]
+    },
+    {
+      "id": "heed",
+      "word": "heed",
+      "pos": "verb/noun",
+      "tags": [
+        "risk",
+        "warning",
+        "discipline"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "注意；重视（常带警告意味）",
+          "definition_en": "pay attention to; take seriously",
+          "examples": [
+            "Few investors heed warnings during periods of euphoria.",
+            "Heed the cycle’s message: easy gains rarely last."
+          ],
+          "cycle_note": "顶部最难做到：听得进“风险提醒”"
+        }
+      ]
+    },
+    {
+      "id": "invariably",
+      "word": "invariably",
+      "pos": "adverb",
+      "tags": [
+        "pattern",
+        "cycle",
+        "certainty"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "总是；几乎必然地",
+          "definition_en": "always or almost always",
+          "examples": [
+            "Excessive optimism is invariably followed by disappointment.",
+            "In markets, extreme narratives are invariably punished."
+          ],
+          "cycle_note": "用于强调“规律性/高概率后果”"
+        }
+      ]
+    },
+    {
+      "id": "vein",
+      "word": "vein",
+      "pos": "noun",
+      "tags": [
+        "writing",
+        "style"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "风格/倾向/脉络（in the vein of：属于…一类/一脉）",
+          "definition_en": "a particular style or quality (in the vein of)",
+          "examples": [
+            "His analysis is in the vein of classic market-cycle theory.",
+            "In the same vein, credit cycles often lead equity cycles."
+          ],
+          "cycle_note": "金融写作里常用固定搭配：in the vein of"
+        }
+      ]
+    },
+    {
+      "id": "wreak_havoc",
+      "word": "wreak havoc",
+      "pos": "phrase",
+      "tags": [
+        "risk",
+        "leverage",
+        "downturn"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "造成严重破坏（常指下行周期中放大损失）",
+          "definition_en": "cause widespread damage or chaos",
+          "examples": [
+            "Leverage can wreak havoc when the cycle turns.",
+            "Liquidity shortages wreak havoc on overextended investors."
+          ],
+          "cycle_note": "下行阶段才“真正体会”的词"
+        }
+      ]
+    },
+    {
+      "id": "efficacy",
+      "word": "efficacy",
+      "pos": "noun",
+      "tags": [
+        "method",
+        "risk",
+        "testing"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "有效性（是否真的起作用）",
+          "definition_en": "the ability to produce the intended result",
+          "examples": [
+            "The efficacy of diversification is most visible during downturns.",
+            "Backtests can overstate efficacy when regimes change."
+          ],
+          "cycle_note": "经常用于讨论策略/分散/对冲是否“有效”"
+        }
+      ]
+    },
+    {
+      "id": "solitude",
+      "word": "solitude",
+      "pos": "noun",
+      "tags": [
+        "psychology",
+        "contrarian"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "独处；与人群保持距离（常带主动选择的意味）",
+          "definition_en": "the state of being alone, often by choice",
+          "examples": [
+            "Intelligent investing often requires solitude from the crowd.",
+            "Solitude helps you think when the market is shouting."
+          ],
+          "cycle_note": "逆周期思考往往是孤独的"
+        }
+      ]
+    },
+    {
+      "id": "stance",
+      "word": "stance",
+      "pos": "noun",
+      "tags": [
+        "decision",
+        "positioning"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "立场；姿态（偏稳定、可持续）",
+          "definition_en": "a standpoint or attitude",
+          "examples": [
+            "His cautious stance preserved capital late in the cycle.",
+            "A consistent stance beats impulsive reactions."
+          ],
+          "cycle_note": "不等于短期观点（opinion），更像长期态度"
+        }
+      ]
+    },
+    {
+      "id": "garner",
+      "word": "garner",
+      "pos": "verb",
+      "tags": [
+        "writing",
+        "results"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "获得；赢得（偏逐步积累）",
+          "definition_en": "to gather or earn, especially gradually",
+          "examples": [
+            "Conservative strategies rarely garner praise at market tops.",
+            "The fund garnered attention after a strong downside defense."
+          ],
+          "cycle_note": "常搭配：garner support/attention/returns"
+        }
+      ]
+    },
+    {
+      "id": "albeit",
+      "word": "albeit",
+      "pos": "conjunction",
+      "tags": [
+        "writing",
+        "contrast"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "尽管；虽然（正式 but）",
+          "definition_en": "although; even though",
+          "examples": [
+            "The outlook is positive, albeit with rising volatility.",
+            "Returns were solid, albeit below the prior year."
+          ],
+          "cycle_note": "用于一句话里承认限制，但不否定主结论"
+        }
+      ]
+    },
+    {
+      "id": "exogenous",
+      "word": "exogenous",
+      "pos": "adjective",
+      "tags": [
+        "macro",
+        "shock",
+        "cycle"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "外生的（来自系统/市场之外的冲击）",
+          "definition_en": "originating outside the system",
+          "examples": [
+            "The crisis was triggered by an exogenous shock.",
+            "Exogenous events often accelerate an already fragile cycle."
+          ],
+          "cycle_note": "通常是“点火器”，不是根因"
+        }
+      ]
+    },
+    {
+      "id": "sober",
+      "word": "sober",
+      "pos": "adjective",
+      "tags": [
+        "discipline",
+        "risk",
+        "decision"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "冷静、清醒的（不被情绪左右）",
+          "definition_en": "calm, rational, not influenced by emotion",
+          "examples": [
+            "A sober assessment of risk is rare near market peaks.",
+            "Sober investors reduce exposure when optimism dominates."
+          ],
+          "cycle_note": "逆周期品质，顶部最稀缺"
+        },
+        {
+          "sense_id": 1,
+          "definition_cn": "严肃的、现实的（面对不利事实）",
+          "definition_en": "serious and realistic",
+          "examples": [
+            "The downturn forced a sober view of future returns."
+          ],
+          "cycle_note": "多见于下行初期/中后段"
+        }
+      ]
+    },
+    {
+      "id": "propitiously",
+      "word": "propitiously",
+      "pos": "adverb",
+      "tags": [
+        "timing",
+        "cycle",
+        "macro"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "在有利时机下；顺势地（条件配合）",
+          "definition_en": "in a favorable way; at an auspicious time",
+          "examples": [
+            "Liquidity tightened just as valuations peaked, propitiously for a correction.",
+            "He entered propitiously when fear was widespread."
+          ],
+          "cycle_note": "强调“时机与条件”而非纯运气"
+        }
+      ]
+    },
+    {
+      "id": "euphoric",
+      "word": "euphoric",
+      "pos": "adjective",
+      "tags": [
+        "cycle-top",
+        "psychology",
+        "sentiment"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "欣快的、亢奋的（常是顶部危险信号）",
+          "definition_en": "intensely happy or excited (often excessive)",
+          "examples": [
+            "Euphoric sentiment is often the final stage of a bull market.",
+            "When headlines turn euphoric, future returns tend to shrink."
+          ],
+          "cycle_note": "比 exhilaration 更极端，常见于牛市末段"
+        }
+      ]
+    },
+    {
+      "id": "atrocious",
+      "word": "atrocious",
+      "pos": "adjective",
+      "tags": [
+        "writing",
+        "judgment",
+        "psychology_of_money"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "糟糕透顶的；极坏的（强调程度很重）",
+          "definition_en": "extremely bad or unpleasant",
+          "examples": [
+            "An atrocious decision can still look rational from the decision-maker’s perspective.",
+            "Atrocious timing often comes from chasing recent returns."
+          ],
+          "cycle_note": "用于强烈评价（慎用但很有力）"
+        }
+      ]
+    },
+    {
+      "id": "loom_large",
+      "word": "loom large",
+      "pos": "phrase",
+      "tags": [
+        "psychology",
+        "salience",
+        "psychology_of_money"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "显得格外重要/阴影巨大（在心理上“压过一切”）",
+          "definition_en": "to seem especially important or threatening",
+          "examples": [
+            "Recent losses loom large, making investors overly cautious.",
+            "A vivid story can loom large even when the data disagrees."
+          ],
+          "cycle_note": "讲“心理权重”而非客观概率"
+        }
+      ]
+    },
+    {
+      "id": "hyperbole",
+      "word": "hyperbole",
+      "pos": "noun",
+      "tags": [
+        "writing",
+        "narratives",
+        "psychology_of_money"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "夸张说法；夸大其词",
+          "definition_en": "exaggerated statements not meant to be taken literally",
+          "examples": [
+            "Market commentary is full of hyperbole near turning points.",
+            "Hyperbole spreads faster than nuance on social media."
+          ],
+          "cycle_note": "顶部/底部叙事常“夸张化”"
+        }
+      ]
+    },
+    {
+      "id": "felicity",
+      "word": "felicity",
+      "pos": "noun",
+      "tags": [
+        "writing",
+        "precision",
+        "psychology_of_money"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "（表达的）恰当、贴切；（较少用）幸福感",
+          "definition_en": "aptness of expression; (less common) happiness",
+          "examples": [
+            "The felicity of his wording made the idea easy to remember.",
+            "A little felicity in phrasing can clarify a messy financial concept."
+          ],
+          "cycle_note": "在阅读里常指“用词贴切”，不是泛指快乐"
+        }
+      ]
+    },
+    {
+      "id": "mitigate",
+      "word": "mitigate",
+      "pos": "verb",
+      "tags": [
+        "risk",
+        "psychology_of_money"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "缓解；减轻（负面影响/痛苦/风险）",
+          "definition_en": "to make less severe or harmful",
+          "examples": [
+            "Diversification can mitigate drawdowns, but it won’t eliminate them.",
+            "Worries don't mitigate tomorrow's pain, but decrease today's strength."
+          ],
+          "cycle_note": "常搭配：mitigate risk/damage/impact"
+        }
+      ]
+    },
+    {
+      "id": "pursue",
+      "word": "pursue",
+      "pos": "verb",
+      "tags": [
+        "psychology_of_money",
+        "behavior",
+        "decision"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "追求；追赶（目标/结果/收益）",
+          "definition_en": "to try to achieve; to chase",
+          "examples": [
+            "Pursuing returns without a margin of safety invites ruin.",
+            "The smartest path is pursuing outcomes within an acceptable range."
+          ],
+          "cycle_note": "在投资语境里常带“追逐/追涨杀跌”的风险含义"
+        }
+      ]
+    }
+  ]
+}
