@@ -1,5 +1,5 @@
 
-const CACHE = 'vocabook-v4';
+const CACHE = 'vocabook-v5';
 const ASSETS = [
   './',
   './index.html',
