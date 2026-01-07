@@ -431,22 +431,24 @@ $('#btn-export').addEventListener('click', async () => {
   const url = URL.createObjectURL(blob);
   const a = document.createElement('a');
   a.href = url;
-  a.download = `vocabcycle-export-${Date.now()}.json`;
+  a.download = `vocabook-export-${Date.now()}.json`;
   a.click();
   URL.revokeObjectURL(url);
 });
 
-$('#btn-import').addEventListener('click', async () => {
-  const txt = $('#import-text').value.trim();
-  if (!txt){ $('#import-status').textContent = 'Paste JSON first.'; return; }
-  let data;
-  try{ data = JSON.parse(txt); } catch(e){ $('#import-status').textContent = 'Invalid JSON.'; return; }
-  const items = data.items || (Array.isArray(data) ? data : null);
-  if (!items || !Array.isArray(items)){ $('#import-status').textContent = 'JSON must have {items:[...]} or be an array.'; return; }
 
+/* Import helpers */
+function parseImportItems(data){
+  // Accept {items:[...]} or raw array
+  const items = (data && data.items) ? data.items : (Array.isArray(data) ? data : null);
+  if (!items || !Array.isArray(items)) return null;
+  return items;
+}
+
+async function importItems(items){
   let count = 0;
   for (const w of items){
-    if (!w.word) continue;
+    if (!w || !w.word) continue;
     w.id = w.id || normalizeId(w.word);
     w.stats = w.stats || { seen:0, correct:0, wrong:0, last_seen:null, mastery:0 };
     w.pronunciation = w.pronunciation || { ipa:null, tts:true };
@@ -454,10 +456,55 @@ $('#btn-import').addEventListener('click', async () => {
     await txPut(STORE, w);
     count++;
   }
-  $('#import-status').textContent = `Imported ${count} words.`;
-  $('#import-text').value = '';
+  return count;
+}
+
+async function importFromText(txt, label='JSON'){
+  const status = $('#import-status');
+  const text = (txt || '').trim();
+  if (!text){ status.textContent = `No ${label} provided.`; return 0; }
+  let data;
+  try { data = JSON.parse(text); } catch(e){ status.textContent = `Invalid ${label}.`; return 0; }
+  const items = parseImportItems(data);
+  if (!items){ status.textContent = `${label} must have {items:[...]} or be an array.`; return 0; }
+  const n = await importItems(items);
+  status.textContent = `Imported ${n} words from ${label}.`;
   await refreshAll();
+  return n;
+}
+
+$('#btn-import').addEventListener('click', async () => {
+  const txt = $('#import-text').value;
+  const n = await importFromText(txt, 'pasted JSON');
+  if (n > 0) $('#import-text').value = '';
 });
+
+
+// Import from JSON file(s)
+const importFileInput = $('#import-file');
+if (importFileInput){
+  importFileInput.addEventListener('change', async (e) => {
+    const files = Array.from(e.target.files || []);
+    if (!files.length) return;
+    const status = $('#import-status');
+    let total = 0;
+
+    for (const file of files){
+      try{
+        status.textContent = `Importing ${file.name}...`;
+        const text = await file.text();
+        const n = await importFromText(text, file.name);
+        total += n;
+      } catch(err){
+        status.textContent = `Failed to import ${file.name}.`;
+      }
+    }
+
+    status.textContent = `Imported ${total} words from ${files.length} file(s).`;
+    // reset file input so selecting same file again triggers change
+    importFileInput.value = '';
+  });
+}
 
 $('#btn-reset').addEventListener('click', async () => {
   if (!confirm('Reset all local data on this device?')) return;

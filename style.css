@@ -50,3 +50,6 @@ code { background: #0f0f14; border:1px solid var(--line); padding: 1px 6px; bord
   border-radius:12px;
   display:block;
 }
+
+
+.file{ flex: 1; max-width: 260px; }
