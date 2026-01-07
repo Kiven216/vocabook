@@ -1,0 +1,2042 @@
+{
+  "version": 1,
+  "generated_at": "2026-01-06T07:55:03.914045Z",
+  "items": [
+    {
+      "id": "valet",
+      "word": "valet",
+      "pos": "noun",
+      "tags": [
+        "psychology_of_money",
+        "people",
+        "daily"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "代客泊车员；（酒店）服务生",
+          "examples": [
+            "A valet parked the car outside the hotel."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "insecurity",
+      "word": "insecurity",
+      "pos": "noun",
+      "tags": [
+        "psychology_of_money",
+        "emotion",
+        "behavior"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "不安全感；缺乏自信",
+          "examples": [
+            "Insecurity can drive people to chase status symbols."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "brag",
+      "word": "brag",
+      "pos": "verb",
+      "tags": [
+        "psychology_of_money",
+        "speech",
+        "behavior"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "吹嘘；自夸",
+          "examples": [
+            "He tends to brag when markets are booming."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "apropos",
+      "word": "apropos",
+      "pos": "adj/adv",
+      "tags": [
+        "psychology_of_money",
+        "writing",
+        "tone"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "适当的；切题的（often: apropos of）",
+          "examples": [
+            "That comment was apropos of the situation."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cackle",
+      "word": "cackle",
+      "pos": "verb/noun",
+      "tags": [
+        "psychology_of_money",
+        "emotion",
+        "tone"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "咯咯大笑（带刺/幸灾乐祸感）",
+          "examples": [
+            "Some critics cackled when the trade blew up."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shatter",
+      "word": "shatter",
+      "pos": "verb",
+      "tags": [
+        "psychology_of_money",
+        "impact",
+        "risk"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "粉碎；彻底打破",
+          "examples": [
+            "One bad year can shatter overconfidence."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "incredulously",
+      "word": "incredulously",
+      "pos": "adverb",
+      "tags": [
+        "psychology_of_money",
+        "tone",
+        "writing"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "难以置信地",
+          "examples": [
+            "She looked at the bill incredulously."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "janitor",
+      "word": "janitor",
+      "pos": "noun",
+      "tags": [
+        "psychology_of_money",
+        "people",
+        "daily"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "清洁工；管理员",
+          "examples": [
+            "He worked nights as a janitor to pay the rent."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "philanthropist",
+      "word": "philanthropist",
+      "pos": "noun",
+      "tags": [
+        "psychology_of_money",
+        "people",
+        "wealth"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "慈善家",
+          "examples": [
+            "The philanthropist donated most of his fortune."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hitchhike",
+      "word": "hitchhike",
+      "pos": "verb",
+      "tags": [
+        "psychology_of_money",
+        "travel",
+        "daily"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "搭便车",
+          "examples": [
+            "They hitchhiked across the country in college."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "savvy",
+      "word": "savvy",
+      "pos": "adj/noun",
+      "tags": [
+        "psychology_of_money",
+        "skill",
+        "decision"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "精明的；懂行的",
+          "examples": [
+            "A savvy investor respects uncertainty."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "connecticut",
+      "word": "Connecticut",
+      "pos": "proper noun",
+      "tags": [
+        "psychology_of_money",
+        "place"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "美国康涅狄格州",
+          "examples": [
+            "He moved to Connecticut for work."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "compelling",
+      "word": "compelling",
+      "pos": "adj",
+      "tags": [
+        "psychology_of_money",
+        "writing",
+        "judgment"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "有说服力的；引人入胜的",
+          "examples": [
+            "It’s a compelling story, but the data is thin."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rebuttal",
+      "word": "rebuttal",
+      "pos": "noun",
+      "tags": [
+        "psychology_of_money",
+        "writing",
+        "argument"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "反驳；反证",
+          "examples": [
+            "She wrote a rebuttal to the popular narrative."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "agony",
+      "word": "agony",
+      "pos": "noun",
+      "tags": [
+        "psychology_of_money",
+        "emotion",
+        "pain"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "极度痛苦；煎熬",
+          "examples": [
+            "Watching a portfolio crash can be pure agony."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "imperil",
+      "word": "imperil",
+      "pos": "verb",
+      "tags": [
+        "psychology_of_money",
+        "risk",
+        "decision"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "使陷入危险；危及",
+          "examples": [
+            "Too much leverage can imperil a good plan."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "counterintuitive",
+      "word": "counterintuitive",
+      "pos": "adj",
+      "tags": [
+        "psychology_of_money",
+        "thinking",
+        "decision"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "反直觉的",
+          "examples": [
+            "It’s counterintuitive, but doing less can improve results."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sophistication",
+      "word": "sophistication",
+      "pos": "noun",
+      "tags": [
+        "psychology_of_money",
+        "thinking",
+        "writing"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "成熟老练；精致度",
+          "examples": [
+            "True sophistication is knowing what you don’t know."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "incinerator",
+      "word": "incinerator",
+      "pos": "noun",
+      "tags": [
+        "psychology_of_money",
+        "daily"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "焚化炉",
+          "examples": [
+            "The building uses an incinerator to dispose of waste."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acclimate",
+      "word": "acclimate",
+      "pos": "verb",
+      "tags": [
+        "psychology_of_money",
+        "adaptation"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "适应（新环境/新节奏）",
+          "examples": [
+            "It took weeks to acclimate to the new routine."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sibling",
+      "word": "sibling",
+      "pos": "noun",
+      "tags": [
+        "psychology_of_money",
+        "family"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "兄弟姐妹",
+          "examples": [
+            "She has two siblings."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rummage_sale",
+      "word": "rummage sale",
+      "pos": "noun phrase",
+      "tags": [
+        "psychology_of_money",
+        "daily"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "旧货甩卖/跳蚤式义卖",
+          "examples": [
+            "They bought furniture at a rummage sale."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "staggeringly",
+      "word": "staggeringly",
+      "pos": "adverb",
+      "tags": [
+        "psychology_of_money",
+        "intensity",
+        "numbers"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "惊人地；高得离谱地",
+          "examples": [
+            "Fees can be staggeringly high over decades."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "prodigy",
+      "word": "prodigy",
+      "pos": "noun",
+      "tags": [
+        "psychology_of_money",
+        "people",
+        "talent"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "神童；奇才",
+          "examples": [
+            "He was seen as a prodigy in math."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "reminisce",
+      "word": "reminisce",
+      "pos": "verb",
+      "tags": [
+        "psychology_of_money",
+        "memory",
+        "daily"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "追忆；缅怀（常与 about 搭配）",
+          "examples": [
+            "They reminisced about the early days of the business."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "roulette",
+      "word": "roulette",
+      "pos": "noun",
+      "tags": [
+        "psychology_of_money",
+        "gambling",
+        "risk"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "轮盘赌；（比喻）碰运气",
+          "examples": [
+            "Stock picking without a process is financial roulette."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "demoralize",
+      "word": "demoralize",
+      "pos": "verb",
+      "tags": [
+        "psychology_of_money",
+        "emotion",
+        "downturn"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "使士气低落；打击信心",
+          "examples": [
+            "A long drawdown can demoralize even disciplined investors."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "devilishly",
+      "word": "devilishly",
+      "pos": "adverb",
+      "tags": [
+        "psychology_of_money",
+        "tone",
+        "intensity"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "极其；狡猾地（带“魔鬼般”语气）",
+          "examples": [
+            "It’s devilishly hard to time the market."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wand",
+      "word": "wand",
+      "pos": "noun",
+      "tags": [
+        "psychology_of_money",
+        "metaphor",
+        "writing"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "魔杖；指挥棒；（比喻）万能工具",
+          "examples": [
+            "There’s no magic wand for building wealth."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "law_flouting",
+      "word": "law-flouting",
+      "pos": "adj",
+      "tags": [
+        "psychology_of_money",
+        "ethics",
+        "crime"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "蔑视法律的；公然违法的",
+          "examples": [
+            "A law-flouting scheme eventually attracts attention."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sage",
+      "word": "sage",
+      "pos": "adj/noun",
+      "tags": [
+        "psychology_of_money",
+        "wisdom",
+        "people"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "睿智的；贤人",
+          "examples": [
+            "Her sage advice was to keep a margin of safety."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "scrappy",
+      "word": "scrappy",
+      "pos": "adj",
+      "tags": [
+        "psychology_of_money",
+        "people",
+        "grit"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "敢拼的；不服输的；小而强悍的",
+          "examples": [
+            "A scrappy team can outperform larger rivals."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "flagrant",
+      "word": "flagrant",
+      "pos": "adj",
+      "tags": [
+        "psychology_of_money",
+        "ethics",
+        "writing"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "公然的；骇人听闻的",
+          "examples": [
+            "It was a flagrant conflict of interest."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "circumventing",
+      "word": "circumventing",
+      "pos": "verb",
+      "tags": [
+        "psychology_of_money",
+        "ethics",
+        "strategy"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "规避；绕开（规则/障碍）",
+          "examples": [
+            "They tried circumventing the rules with loopholes."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cunning",
+      "word": "cunning",
+      "pos": "adj",
+      "tags": [
+        "psychology_of_money",
+        "ethics",
+        "writing"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "狡猾的；精巧的",
+          "examples": [
+            "A cunning pitch can hide a bad deal."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bonanza",
+      "word": "bonanza",
+      "pos": "noun",
+      "tags": [
+        "psychology_of_money",
+        "boom",
+        "returns"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "意外之财；大丰收",
+          "examples": [
+            "The boom felt like a bonanza—until it ended."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hindsight",
+      "word": "hindsight",
+      "pos": "noun",
+      "tags": [
+        "psychology_of_money",
+        "bias",
+        "thinking"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "事后诸葛；后见之明",
+          "examples": [
+            "Hindsight makes every bubble look obvious."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doppelganger",
+      "word": "doppelganger",
+      "pos": "noun",
+      "tags": [
+        "psychology_of_money",
+        "people",
+        "daily"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "长得极像的人；“分身”",
+          "examples": [
+            "He met a doppelganger who looked just like him."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lousy",
+      "word": "lousy",
+      "pos": "adj",
+      "tags": [
+        "psychology_of_money",
+        "judgment",
+        "tone"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "糟糕的；差劲的",
+          "examples": [
+            "Chasing hot tips is a lousy strategy."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "invincible",
+      "word": "invincible",
+      "pos": "adj",
+      "tags": [
+        "psychology_of_money",
+        "emotion",
+        "cycle-top"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "不可战胜的；（自以为）无敌的",
+          "examples": [
+            "Late-cycle euphoria can make people feel invincible."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "eloquence",
+      "word": "eloquence",
+      "pos": "noun",
+      "tags": [
+        "psychology_of_money",
+        "writing",
+        "persuasion"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "雄辩；口才；表达力",
+          "examples": [
+            "Eloquence can sell a weak idea."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "orphaned",
+      "word": "orphaned",
+      "pos": "adj",
+      "tags": [
+        "psychology_of_money",
+        "people",
+        "tragedy"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "成为孤儿的；无依无靠的",
+          "examples": [
+            "The crisis left many children orphaned."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "slum",
+      "word": "slum",
+      "pos": "noun",
+      "tags": [
+        "psychology_of_money",
+        "place",
+        "society"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "贫民窟",
+          "examples": [
+            "He grew up in a slum."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "unfathomable",
+      "word": "unfathomable",
+      "pos": "adj",
+      "tags": [
+        "psychology_of_money",
+        "uncertainty",
+        "writing"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "深不可测的；难以理解的",
+          "examples": [
+            "Markets can be unfathomable in the short run."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lucrative",
+      "word": "lucrative",
+      "pos": "adj",
+      "tags": [
+        "psychology_of_money",
+        "money",
+        "career"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "利润丰厚的",
+          "examples": [
+            "It’s a lucrative business if managed well."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hustle",
+      "word": "hustle",
+      "pos": "noun/verb",
+      "tags": [
+        "psychology_of_money",
+        "work",
+        "money"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "忙碌奔波；拼命干；（口语）搞钱/拉活",
+          "examples": [
+            "He took on side hustles to build savings."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wrath",
+      "word": "wrath",
+      "pos": "noun",
+      "tags": [
+        "psychology_of_money",
+        "emotion",
+        "conflict"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "愤怒；盛怒",
+          "examples": [
+            "He faced the wrath of investors after the loss."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "swindle",
+      "word": "swindle",
+      "pos": "verb/noun",
+      "tags": [
+        "psychology_of_money",
+        "crime",
+        "money"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "诈骗；骗取",
+          "examples": [
+            "They were swindled out of their savings."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fraudster",
+      "word": "fraudster",
+      "pos": "noun",
+      "tags": [
+        "psychology_of_money",
+        "crime",
+        "money"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "诈骗犯",
+          "examples": [
+            "The fraudster promised impossible returns."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "siphon",
+      "word": "siphon",
+      "pos": "verb",
+      "tags": [
+        "psychology_of_money",
+        "money",
+        "leakage"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "（偷偷）抽走； siphon off",
+          "examples": [
+            "Fees can siphon off returns over time."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "scam",
+      "word": "scam",
+      "pos": "noun",
+      "tags": [
+        "psychology_of_money",
+        "crime",
+        "money"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "骗局",
+          "examples": [
+            "If it sounds too good to be true, it may be a scam."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pilgrimage",
+      "word": "pilgrimage",
+      "pos": "noun",
+      "tags": [
+        "psychology_of_money",
+        "metaphor",
+        "travel"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "朝圣之旅；（比喻）重要的“圣地打卡”",
+          "examples": [
+            "For some, visiting Wall Street is a pilgrimage."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "insatiable",
+      "word": "insatiable",
+      "pos": "adj",
+      "tags": [
+        "psychology_of_money",
+        "behavior",
+        "risk"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "贪得无厌的；无法满足的",
+          "examples": [
+            "An insatiable appetite for more can be dangerous."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "absurdity",
+      "word": "absurdity",
+      "pos": "noun",
+      "tags": [
+        "psychology_of_money",
+        "thinking",
+        "writing"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "荒谬；荒唐",
+          "examples": [
+            "There’s an absurdity to thinking you can predict everything."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "scrape",
+      "word": "scrape",
+      "pos": "verb",
+      "tags": [
+        "psychology_of_money",
+        "money",
+        "daily"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "勉强凑出；刮擦",
+          "examples": [
+            "They scraped together enough money for rent."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "anew",
+      "word": "anew",
+      "pos": "adv",
+      "tags": [
+        "psychology_of_money",
+        "restart",
+        "life"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "重新；再一次",
+          "examples": [
+            "He started anew after bankruptcy."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tile",
+      "word": "tile",
+      "pos": "noun",
+      "tags": [
+        "psychology_of_money",
+        "daily"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "瓷砖；瓦片",
+          "examples": [
+            "The kitchen floor is covered in tile."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ravenous",
+      "word": "ravenous",
+      "pos": "adj",
+      "tags": [
+        "psychology_of_money",
+        "emotion",
+        "boom"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "饥肠辘辘的；（比喻）极度渴望的",
+          "examples": [
+            "Investors can become ravenous for returns in booms."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nuance",
+      "word": "nuance",
+      "pos": "noun",
+      "tags": [
+        "psychology_of_money",
+        "thinking",
+        "writing"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "细微差别；微妙之处",
+          "examples": [
+            "Good advice often depends on nuance."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "culprit",
+      "word": "culprit",
+      "pos": "noun",
+      "tags": [
+        "psychology_of_money",
+        "cause",
+        "risk"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "罪魁祸首；肇事者",
+          "examples": [
+            "Leverage was the main culprit behind the collapse."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "leftover",
+      "word": "leftover",
+      "pos": "adj/noun",
+      "tags": [
+        "psychology_of_money",
+        "money",
+        "daily"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "剩余的；剩饭",
+          "examples": [
+            "He invested the leftover cash each month."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "perpetual",
+      "word": "perpetual",
+      "pos": "adj",
+      "tags": [
+        "psychology_of_money",
+        "cycle",
+        "time"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "永久的；持续不断的",
+          "examples": [
+            "There is no perpetual boom."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "exacerbate",
+      "word": "exacerbate",
+      "pos": "verb",
+      "tags": [
+        "psychology_of_money",
+        "downturn",
+        "emotion"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "使恶化；加剧",
+          "examples": [
+            "Panic selling can exacerbate losses."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "logic_defying",
+      "word": "logic-defying",
+      "pos": "adj",
+      "tags": [
+        "psychology_of_money",
+        "writing",
+        "cycle-top"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "违背逻辑的；不合常理的",
+          "examples": [
+            "Logic-defying optimism often appears near peaks."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acumen",
+      "word": "acumen",
+      "pos": "noun",
+      "tags": [
+        "psychology_of_money",
+        "skill",
+        "decision"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "敏锐；洞察力（商业/投资）",
+          "examples": [
+            "Risk acumen matters more than IQ."
+          ],
+          "cycle_note": "你输入里写了 accumen，我这里按标准拼写 acumen 处理"
+        }
+      ]
+    },
+    {
+      "id": "pubescent",
+      "word": "pubescent",
+      "pos": "adj",
+      "tags": [
+        "psychology_of_money",
+        "people",
+        "age"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "青春期的；刚发育的",
+          "examples": [
+            "The pubescent boy grew rapidly."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "geriatric",
+      "word": "geriatric",
+      "pos": "adj",
+      "tags": [
+        "psychology_of_money",
+        "people",
+        "age"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "老年的；（医疗）老年病学的",
+          "examples": [
+            "The clinic has a geriatric ward."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "strife",
+      "word": "strife",
+      "pos": "noun",
+      "tags": [
+        "psychology_of_money",
+        "society",
+        "conflict"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "冲突；纷争",
+          "examples": [
+            "Economic strife can change spending habits."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "paradigm",
+      "word": "paradigm",
+      "pos": "noun",
+      "tags": [
+        "psychology_of_money",
+        "thinking",
+        "narratives"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "范式；思维框架",
+          "examples": [
+            "A new paradigm can tempt people to ignore risk."
+          ],
+          "cycle_note": "你输入里写了 paradiam，我这里按标准拼写 paradigm 处理"
+        }
+      ]
+    },
+    {
+      "id": "accustomed_to",
+      "word": "accustomed to",
+      "pos": "phrase",
+      "tags": [
+        "psychology_of_money",
+        "daily",
+        "adaptation"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "习惯于",
+          "examples": [
+            "She quickly became accustomed to the new job."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sector_bets",
+      "word": "sector bets",
+      "pos": "noun phrase",
+      "tags": [
+        "psychology_of_money",
+        "investing",
+        "risk"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "行业押注；板块下注",
+          "examples": [
+            "Sector bets can magnify both gains and losses."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "frugality",
+      "word": "frugality",
+      "pos": "noun",
+      "tags": [
+        "psychology_of_money",
+        "behavior",
+        "money"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "节俭",
+          "examples": [
+            "Frugality buys you time and options."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "frugal",
+      "word": "frugal",
+      "pos": "adj",
+      "tags": [
+        "psychology_of_money",
+        "behavior",
+        "money"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "节俭的；省钱的",
+          "examples": [
+            "He lives a frugal life despite high income."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "paranoia",
+      "word": "paranoia",
+      "pos": "noun",
+      "tags": [
+        "psychology_of_money",
+        "emotion",
+        "risk"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "多疑；偏执担忧",
+          "examples": [
+            "Paranoia can keep you safe—or keep you stuck."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "paranoid",
+      "word": "paranoid",
+      "pos": "adj",
+      "tags": [
+        "psychology_of_money",
+        "emotion",
+        "risk"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "多疑的；过度担忧的",
+          "examples": [
+            "He became paranoid about losing money."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "usher",
+      "word": "usher",
+      "pos": "verb/noun",
+      "tags": [
+        "psychology_of_money",
+        "writing",
+        "transition"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "引领；迎宾员（usher in：开启/引入）",
+          "examples": [
+            "A rate cut can usher in a new regime."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cement",
+      "word": "cement",
+      "pos": "verb",
+      "tags": [
+        "psychology_of_money",
+        "writing",
+        "results"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "巩固；使牢固",
+          "examples": [
+            "One good year can cement a reputation."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "distraught",
+      "word": "distraught",
+      "pos": "adj",
+      "tags": [
+        "psychology_of_money",
+        "emotion",
+        "pain"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "心烦意乱的；极度苦恼的",
+          "examples": [
+            "He was distraught after the accident."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "indefinitely",
+      "word": "indefinitely",
+      "pos": "adv",
+      "tags": [
+        "psychology_of_money",
+        "time",
+        "decision"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "无限期地",
+          "examples": [
+            "You can’t postpone hard decisions indefinitely."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "laurel",
+      "word": "laurel",
+      "pos": "noun",
+      "tags": [
+        "psychology_of_money",
+        "idiom",
+        "success"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "桂冠；荣誉（rest on your laurels）",
+          "examples": [
+            "Don’t rest on your laurels after a good year."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "complacent",
+      "word": "complacent",
+      "pos": "adj",
+      "tags": [
+        "psychology_of_money",
+        "bias",
+        "risk"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "自满的；掉以轻心的",
+          "examples": [
+            "Complacent investors underestimate risk."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cornerstone",
+      "word": "cornerstone",
+      "pos": "noun",
+      "tags": [
+        "psychology_of_money",
+        "principles",
+        "risk"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "基石；奠基之物",
+          "examples": [
+            "Cash reserves are the cornerstone of resilience."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sully",
+      "word": "sully",
+      "pos": "verb",
+      "tags": [
+        "psychology_of_money",
+        "reputation",
+        "risk"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "玷污；损害名誉",
+          "examples": [
+            "A scandal can sully a brand overnight."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "burn_himself_out",
+      "word": "burn himself out",
+      "pos": "phrase",
+      "tags": [
+        "psychology_of_money",
+        "health",
+        "work"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "把自己累垮；精疲力竭",
+          "examples": [
+            "He burned himself out trying to work two jobs."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "investing_duo",
+      "word": "investing duo",
+      "pos": "noun phrase",
+      "tags": [
+        "psychology_of_money",
+        "people",
+        "investing"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "投资搭档/二人组",
+          "examples": [
+            "The investing duo wrote a popular newsletter."
+          ]
+        }
+      ]
+    }
+  ]
+}

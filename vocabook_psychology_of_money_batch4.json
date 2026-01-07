@@ -1,0 +1,2095 @@
+{
+  "version": 1,
+  "generated_at": "2026-01-06T09:56:13.667710Z",
+  "items": [
+    {
+      "id": "incentivize",
+      "word": "incentivize",
+      "pos": "verb",
+      "tags": [
+        "psychology_of_money",
+        "behavior"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "激励；给予动机",
+          "examples": [
+            "Bonuses incentivize risk-taking."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "unequal_magnitude",
+      "word": "unequal magnitude",
+      "pos": "phrase",
+      "tags": [
+        "psychology_of_money",
+        "risk"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "不等量级；规模悬殊",
+          "examples": [
+            "Losses and gains have unequal magnitude."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "credence",
+      "word": "credence",
+      "pos": "noun",
+      "tags": [
+        "psychology_of_money",
+        "belief"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "可信度；信任",
+          "examples": [
+            "The claim lacks credence."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sting",
+      "word": "sting",
+      "pos": "verb",
+      "tags": [
+        "psychology_of_money",
+        "impact"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "刺痛；打击",
+          "examples": [
+            "High fees sting."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "incurable",
+      "word": "incurable",
+      "pos": "adj",
+      "tags": [
+        "psychology_of_money",
+        "health"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "无法治愈的",
+          "examples": [
+            "An incurable disease."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "motor_neuron",
+      "word": "motor neuron",
+      "pos": "noun",
+      "tags": [
+        "psychology_of_money",
+        "health"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "运动神经元",
+          "examples": [
+            "Motor neuron disease affects movement."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "underscore",
+      "word": "underscore",
+      "pos": "verb",
+      "tags": [
+        "psychology_of_money",
+        "writing"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "强调",
+          "examples": [
+            "Results underscore the risk."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "backdrop",
+      "word": "backdrop",
+      "pos": "noun",
+      "tags": [
+        "psychology_of_money",
+        "context"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "背景",
+          "examples": [
+            "Inflation formed the backdrop."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dispatch",
+      "word": "dispatch",
+      "pos": "verb",
+      "tags": [
+        "psychology_of_money",
+        "action"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "派遣；迅速处理",
+          "examples": [
+            "They dispatched the task."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "keep_tabs_on",
+      "word": "keep tabs on",
+      "pos": "phrase",
+      "tags": [
+        "psychology_of_money",
+        "monitor"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "密切关注",
+          "examples": [
+            "Keep tabs on spending."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hustle",
+      "word": "hustle",
+      "pos": "noun/verb",
+      "tags": [
+        "psychology_of_money",
+        "work"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "拼命干；副业",
+          "examples": [
+            "Side hustles add income."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hook_up",
+      "word": "hook up",
+      "pos": "phrase",
+      "tags": [
+        "psychology_of_money",
+        "daily"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "连接；搭上线",
+          "examples": [
+            "Hook up the system."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "exponential",
+      "word": "exponential",
+      "pos": "adj",
+      "tags": [
+        "psychology_of_money",
+        "math"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "指数级的",
+          "examples": [
+            "Exponential growth."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dumbfounded",
+      "word": "dumbfounded",
+      "pos": "adj",
+      "tags": [
+        "psychology_of_money",
+        "emotion"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "目瞪口呆的",
+          "examples": [
+            "He was dumbfounded."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cling_to",
+      "word": "cling to",
+      "pos": "phrase",
+      "tags": [
+        "psychology_of_money",
+        "behavior"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "紧抓不放",
+          "examples": [
+            "Cling to beliefs."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obliterate",
+      "word": "obliterate",
+      "pos": "verb",
+      "tags": [
+        "psychology_of_money",
+        "risk"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "彻底摧毁",
+          "examples": [
+            "Inflation obliterates savings."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "inflict",
+      "word": "inflict",
+      "pos": "verb",
+      "tags": [
+        "psychology_of_money",
+        "impact"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "施加",
+          "examples": [
+            "Losses were inflicted."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "potent",
+      "word": "potent",
+      "pos": "adj",
+      "tags": [
+        "psychology_of_money",
+        "impact"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "强有力的",
+          "examples": [
+            "A potent force."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "centenarian",
+      "word": "centenarian",
+      "pos": "noun",
+      "tags": [
+        "psychology_of_money",
+        "people"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "百岁老人",
+          "examples": [
+            "A centenarian investor."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "armistice_day",
+      "word": "Armistice Day",
+      "pos": "proper noun",
+      "tags": [
+        "psychology_of_money",
+        "history"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "停战纪念日",
+          "examples": [
+            "Armistice Day is commemorated."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "stake",
+      "word": "stake",
+      "pos": "noun",
+      "tags": [
+        "psychology_of_money",
+        "ownership"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "权益；赌注",
+          "examples": [
+            "He has a stake."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shove",
+      "word": "shove",
+      "pos": "verb",
+      "tags": [
+        "psychology_of_money",
+        "force"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "猛推",
+          "examples": [
+            "Prices shoved lower."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "drain",
+      "word": "drain",
+      "pos": "verb",
+      "tags": [
+        "psychology_of_money",
+        "money"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "消耗",
+          "examples": [
+            "Fees drain returns."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "predate",
+      "word": "predate",
+      "pos": "verb",
+      "tags": [
+        "psychology_of_money",
+        "time"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "早于",
+          "examples": [
+            "The rule predates the crisis."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "germ",
+      "word": "germ",
+      "pos": "noun",
+      "tags": [
+        "psychology_of_money",
+        "metaphor"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "萌芽；细菌",
+          "examples": [
+            "The germ of an idea."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "haste_and_demise",
+      "word": "haste and demise",
+      "pos": "phrase",
+      "tags": [
+        "psychology_of_money",
+        "lesson"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "仓促导致失败",
+          "examples": [
+            "Haste leads to demise."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chronicle",
+      "word": "chronicle",
+      "pos": "verb",
+      "tags": [
+        "psychology_of_money",
+        "writing"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "记录",
+          "examples": [
+            "Chronicle events."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "plague",
+      "word": "plague",
+      "pos": "verb",
+      "tags": [
+        "psychology_of_money",
+        "impact"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "困扰",
+          "examples": [
+            "Problems plagued markets."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "almanac",
+      "word": "almanac",
+      "pos": "noun",
+      "tags": [
+        "psychology_of_money",
+        "reference"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "年鉴",
+          "examples": [
+            "An investment almanac."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "plaster",
+      "word": "plaster",
+      "pos": "verb",
+      "tags": [
+        "psychology_of_money",
+        "tone"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "涂抹；张贴",
+          "examples": [
+            "Ads plastered walls."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "astrological",
+      "word": "astrological",
+      "pos": "adj",
+      "tags": [
+        "psychology_of_money",
+        "skepticism"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "占星的",
+          "examples": [
+            "Astrological forecasts."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "infallible",
+      "word": "infallible",
+      "pos": "adj",
+      "tags": [
+        "psychology_of_money",
+        "thinking"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "绝不会错的",
+          "examples": [
+            "No model is infallible."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tribe",
+      "word": "tribe",
+      "pos": "noun",
+      "tags": [
+        "psychology_of_money",
+        "society"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "群体",
+          "examples": [
+            "Investor tribes."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "unequivocal",
+      "word": "unequivocal",
+      "pos": "adj",
+      "tags": [
+        "psychology_of_money",
+        "clarity"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "毫不含糊的",
+          "examples": [
+            "Unequivocal evidence."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "quackery",
+      "word": "quackery",
+      "pos": "noun",
+      "tags": [
+        "psychology_of_money",
+        "fraud"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "伪科学；骗术",
+          "examples": [
+            "Financial quackery."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "outright",
+      "word": "outright",
+      "pos": "adj",
+      "tags": [
+        "psychology_of_money",
+        "tone"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "彻底的",
+          "examples": [
+            "Outright ban."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "slow_ish",
+      "word": "slow-ish",
+      "pos": "adj",
+      "tags": [
+        "psychology_of_money",
+        "tone"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "有点慢的",
+          "examples": [
+            "Slow-ish growth."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "warp",
+      "word": "warp",
+      "pos": "verb",
+      "tags": [
+        "psychology_of_money",
+        "bias"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "扭曲",
+          "examples": [
+            "Fear warps judgment."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "blip",
+      "word": "blip",
+      "pos": "noun",
+      "tags": [
+        "psychology_of_money",
+        "noise"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "小波动",
+          "examples": [
+            "Just a blip."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "snuggle",
+      "word": "snuggle",
+      "pos": "verb",
+      "tags": [
+        "psychology_of_money",
+        "daily"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "依偎",
+          "examples": [
+            "Snuggle together."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "at_my_disposal",
+      "word": "at my disposal",
+      "pos": "phrase",
+      "tags": [
+        "psychology_of_money",
+        "control"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "任我支配",
+          "examples": [
+            "Funds at my disposal."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sheer",
+      "word": "sheer",
+      "pos": "adj",
+      "tags": [
+        "psychology_of_money",
+        "emphasis"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "纯粹的；极度的",
+          "examples": [
+            "Sheer luck."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "awry",
+      "word": "awry",
+      "pos": "adj",
+      "tags": [
+        "psychology_of_money",
+        "risk"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "出错的",
+          "examples": [
+            "Plans went awry."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "radiating",
+      "word": "radiating",
+      "pos": "adj",
+      "tags": [
+        "psychology_of_money",
+        "tone"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "散发的",
+          "examples": [
+            "Radiating confidence."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "anesthesia",
+      "word": "anesthesia",
+      "pos": "noun",
+      "tags": [
+        "psychology_of_money",
+        "health"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "麻醉",
+          "examples": [
+            "General anesthesia."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tonsil",
+      "word": "tonsil",
+      "pos": "noun",
+      "tags": [
+        "psychology_of_money",
+        "health"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "扁桃体",
+          "examples": [
+            "Swollen tonsils."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wove",
+      "word": "wove",
+      "pos": "verb",
+      "tags": [
+        "psychology_of_money",
+        "writing"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "编织（weave 过去式）",
+          "examples": [
+            "He wove a story."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "go_nowhere",
+      "word": "go nowhere",
+      "pos": "phrase",
+      "tags": [
+        "psychology_of_money",
+        "progress"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "毫无进展",
+          "examples": [
+            "Talks went nowhere."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ethos",
+      "word": "ethos",
+      "pos": "noun",
+      "tags": [
+        "psychology_of_money",
+        "culture"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "精神气质",
+          "examples": [
+            "Company ethos."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "malice",
+      "word": "malice",
+      "pos": "noun",
+      "tags": [
+        "psychology_of_money",
+        "ethics"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "恶意",
+          "examples": [
+            "Act with malice."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "benevolent",
+      "word": "benevolent",
+      "pos": "adj",
+      "tags": [
+        "psychology_of_money",
+        "ethics"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "仁慈的",
+          "examples": [
+            "Benevolent policy."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "caveat",
+      "word": "caveat",
+      "pos": "noun",
+      "tags": [
+        "psychology_of_money",
+        "risk"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "警告；附带条件",
+          "examples": [
+            "A caveat applies."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "flashy",
+      "word": "flashy",
+      "pos": "adj",
+      "tags": [
+        "psychology_of_money",
+        "tone"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "浮夸的",
+          "examples": [
+            "Flashy ads."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "earmark",
+      "word": "earmark",
+      "pos": "verb",
+      "tags": [
+        "psychology_of_money",
+        "money"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "指定用途",
+          "examples": [
+            "Funds earmarked."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "payoff",
+      "word": "payoff",
+      "pos": "noun",
+      "tags": [
+        "psychology_of_money",
+        "returns"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "回报",
+          "examples": [
+            "Long-term payoff."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "atrocious",
+      "word": "atrocious",
+      "pos": "adj",
+      "tags": [
+        "psychology_of_money",
+        "tone"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "糟糕透顶的",
+          "examples": [
+            "Atrocious timing."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hypocrisy",
+      "word": "hypocrisy",
+      "pos": "noun",
+      "tags": [
+        "psychology_of_money",
+        "ethics"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "虚伪",
+          "examples": [
+            "Political hypocrisy."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fend_off",
+      "word": "fend off",
+      "pos": "phrase",
+      "tags": [
+        "psychology_of_money",
+        "risk"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "抵御",
+          "examples": [
+            "Fend off losses."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "serene",
+      "word": "serene",
+      "pos": "adj",
+      "tags": [
+        "psychology_of_money",
+        "emotion"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "平静的",
+          "examples": [
+            "Remain serene."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "palliative",
+      "word": "palliative",
+      "pos": "adj",
+      "tags": [
+        "psychology_of_money",
+        "relief"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "缓解性的",
+          "examples": [
+            "Palliative care."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "toggling",
+      "word": "toggling",
+      "pos": "noun",
+      "tags": [
+        "psychology_of_money",
+        "behavior"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "切换",
+          "examples": [
+            "Toggling options."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "circadian_rhythm",
+      "word": "circadian rhythm",
+      "pos": "noun",
+      "tags": [
+        "psychology_of_money",
+        "biology"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "昼夜节律",
+          "examples": [
+            "Circadian rhythm affects sleep."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "repressive",
+      "word": "repressive",
+      "pos": "adj",
+      "tags": [
+        "psychology_of_money",
+        "politics"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "压制的",
+          "examples": [
+            "Repressive regime."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "treadmill",
+      "word": "treadmill",
+      "pos": "noun",
+      "tags": [
+        "psychology_of_money",
+        "psychology"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "跑步机；原地打转",
+          "examples": [
+            "Hedonic treadmill."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "indefensible",
+      "word": "indefensible",
+      "pos": "adj",
+      "tags": [
+        "psychology_of_money",
+        "argument"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "站不住脚的",
+          "examples": [
+            "Indefensible claim."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "curveball",
+      "word": "curveball",
+      "pos": "noun",
+      "tags": [
+        "psychology_of_money",
+        "surprise"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "意外难题",
+          "examples": [
+            "A curveball hit markets."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doom",
+      "word": "doom",
+      "pos": "verb",
+      "tags": [
+        "psychology_of_money",
+        "risk"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "注定失败",
+          "examples": [
+            "Debt can doom plans."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vehemently",
+      "word": "vehemently",
+      "pos": "adv",
+      "tags": [
+        "psychology_of_money",
+        "tone"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "强烈地",
+          "examples": [
+            "Vehemently opposed."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "subsidize",
+      "word": "subsidize",
+      "pos": "verb",
+      "tags": [
+        "psychology_of_money",
+        "policy"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "补贴",
+          "examples": [
+            "Subsidize fuel."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "curtail",
+      "word": "curtail",
+      "pos": "verb",
+      "tags": [
+        "psychology_of_money",
+        "decision"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "削减",
+          "examples": [
+            "Curtail spending."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "immense",
+      "word": "immense",
+      "pos": "adj",
+      "tags": [
+        "psychology_of_money",
+        "scale"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "巨大的",
+          "examples": [
+            "Immense pressure."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "inflate",
+      "word": "inflate",
+      "pos": "verb",
+      "tags": [
+        "psychology_of_money",
+        "economy"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "膨胀",
+          "examples": [
+            "Inflate prices."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "morph_into",
+      "word": "morph into",
+      "pos": "phrase",
+      "tags": [
+        "psychology_of_money",
+        "change"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "转变成",
+          "examples": [
+            "Markets morph into bubbles."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shed",
+      "word": "she'd",
+      "pos": "unknown",
+      "tags": [
+        "psychology_of_money",
+        "todo"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "（待补充）",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "id": "scoff_at",
+      "word": "scoff at",
+      "pos": "unknown",
+      "tags": [
+        "psychology_of_money",
+        "todo"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "（待补充）",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "id": "by_and_large",
+      "word": "by-and-large",
+      "pos": "phrase",
+      "tags": [
+        "psychology_of_money",
+        "summary"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "总体而言",
+          "examples": [
+            "By and large, it worked."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rotten",
+      "word": "rotten",
+      "pos": "adj",
+      "tags": [
+        "psychology_of_money",
+        "tone"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "糟糕的",
+          "examples": [
+            "A rotten deal."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cripple",
+      "word": "cripple",
+      "pos": "verb",
+      "tags": [
+        "psychology_of_money",
+        "impact"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "严重削弱",
+          "examples": [
+            "Fees cripple returns."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "odd_incentives",
+      "word": "odd incentives",
+      "pos": "phrase",
+      "tags": [
+        "psychology_of_money",
+        "behavior"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "反常激励",
+          "examples": [
+            "Odd incentives distort behavior."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "scramble",
+      "word": "scramble",
+      "pos": "verb",
+      "tags": [
+        "psychology_of_money",
+        "panic"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "慌忙应对",
+          "examples": [
+            "Scramble for cash."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "trail_off",
+      "word": "trail off",
+      "pos": "phrase",
+      "tags": [
+        "psychology_of_money",
+        "writing"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "逐渐减弱",
+          "examples": [
+            "The talk trailed off."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "by_sheer_chance",
+      "word": "by sheer chance",
+      "pos": "phrase",
+      "tags": [
+        "psychology_of_money",
+        "luck"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "纯属偶然",
+          "examples": [
+            "By sheer chance."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "back_down",
+      "word": "back down",
+      "pos": "phrase",
+      "tags": [
+        "psychology_of_money",
+        "conflict"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "让步",
+          "examples": [
+            "He backed down."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "reckless",
+      "word": "reckless",
+      "pos": "adj",
+      "tags": [
+        "psychology_of_money",
+        "risk"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "鲁莽的",
+          "examples": [
+            "Reckless leverage."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chalk_up",
+      "word": "chalk up",
+      "pos": "phrase",
+      "tags": [
+        "psychology_of_money",
+        "attribution"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "归因于",
+          "examples": [
+            "Chalk it up to luck."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shrewd",
+      "word": "shrewd",
+      "pos": "adj",
+      "tags": [
+        "psychology_of_money",
+        "skill"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "精明的",
+          "examples": [
+            "A shrewd move."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "destitution",
+      "word": "destitution",
+      "pos": "noun",
+      "tags": [
+        "psychology_of_money",
+        "society"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "赤贫",
+          "examples": [
+            "Fall into destitution."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "irrevocably",
+      "word": "irrevocably",
+      "pos": "adv",
+      "tags": [
+        "psychology_of_money",
+        "finality"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "不可逆地",
+          "examples": [
+            "Irrevocably changed."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "swell",
+      "word": "swell",
+      "pos": "verb",
+      "tags": [
+        "psychology_of_money",
+        "growth"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "膨胀",
+          "examples": [
+            "Numbers swelled."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gnaw",
+      "word": "gnaw",
+      "pos": "verb",
+      "tags": [
+        "psychology_of_money",
+        "emotion"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "折磨",
+          "examples": [
+            "Doubt gnawed at him."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wind_up",
+      "word": "wind up",
+      "pos": "phrase",
+      "tags": [
+        "psychology_of_money",
+        "outcome"
+      ],
+      "core_sense": 0,
+      "pronunciation": {
+        "ipa": null,
+        "tts": true
+      },
+      "senses": [
+        {
+          "sense_id": 0,
+          "definition_cn": "最终落得",
+          "examples": [
+            "Wind up broke."
+          ]
+        }
+      ]
+    }
+  ]
+}
