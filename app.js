@@ -183,6 +183,25 @@ function buildOptions(target, allWords, n=4){
 let WORDS = [];
 let CURRENT = null;
 let CURRENT_OPTIONS = null;
+let LAST_FOCUSED = null;
+
+function openDetailModal(){
+  const modal = $('#detail-modal');
+  if (!modal) return;
+  LAST_FOCUSED = document.activeElement;
+  modal.classList.remove('hidden');
+  modal.setAttribute('aria-hidden', 'false');
+  document.body.style.overflow = 'hidden';
+}
+
+function closeDetailModal(){
+  const modal = $('#detail-modal');
+  if (!modal) return;
+  modal.classList.add('hidden');
+  modal.setAttribute('aria-hidden', 'true');
+  document.body.style.overflow = '';
+  if (LAST_FOCUSED && typeof LAST_FOCUSED.focus === 'function') LAST_FOCUSED.focus();
+}
 
 function setActiveTab(name){
   document.querySelectorAll('.tab').forEach(b => b.classList.toggle('active', b.dataset.tab === name));
@@ -208,17 +227,66 @@ function fillTagFilter(){
 
 function renderSensesHtml(w){
   const parts = [];
-  const ipa = w.pronunciation?.ipa ? ` • <span class="small">${escapeHtml(w.pronunciation.ipa)}</span>` : '';
-  parts.push(`<div class="small">POS: ${escapeHtml(w.pos||'—')}${ipa}</div>`);
-  (w.senses||[]).forEach((s, idx) => {
-    parts.push(`<div style="margin-top:10px"><b>Sense ${idx+1}</b>: ${escapeHtml(s.definition_cn||'—')}</div>`);
-    if (s.cycle_note) parts.push(`<div class="small">${escapeHtml(s.cycle_note)}</div>`);
-    if (s.examples?.length){
-      parts.push('<ul>');
-      s.examples.forEach(ex => parts.push(`<li>${escapeHtml(ex)}</li>`));
-      parts.push('</ul>');
-    }
-  });
+  const addBlock = (label, value) => {
+    if (value === undefined || value === null || value === '') return;
+    parts.push(`
+      <div class="detail-block">
+        <div class="detail-label">${escapeHtml(label)}</div>
+        <div class="detail-value">${escapeHtml(value)}</div>
+      </div>
+    `);
+  };
+
+  addBlock('ID', w.id || '—');
+  addBlock('Word', w.word || '—');
+  addBlock('Part of speech', w.pos || '—');
+  addBlock('Tags', (w.tags || []).join(', ') || '—');
+  addBlock('IPA', w.pronunciation?.ipa || '—');
+  addBlock('Core sense index', String(w.core_sense ?? 0));
+
+  const stats = w.stats || {};
+  const statsSummary = [
+    `seen: ${stats.seen ?? 0}`,
+    `correct: ${stats.correct ?? 0}`,
+    `wrong: ${stats.wrong ?? 0}`,
+    `mastery: ${stats.mastery ?? 0}`,
+    `last_seen: ${stats.last_seen || '—'}`
+  ].join(' • ');
+  addBlock('Stats', statsSummary);
+
+  if (Array.isArray(w.senses) && w.senses.length){
+    parts.push('<div class="detail-block"><div class="detail-label">Senses</div></div>');
+    w.senses.forEach((s, idx) => {
+      parts.push(`<div class="detail-sense"><div><b>Sense ${idx + 1}</b></div>`);
+      if (s.sense_id !== undefined) parts.push(`<div class="small">sense_id: ${escapeHtml(String(s.sense_id))}</div>`);
+      if (s.definition_cn) parts.push(`<div class="detail-block"><div class="detail-label">Definition CN</div><div class="detail-value">${escapeHtml(s.definition_cn)}</div></div>`);
+      if (s.definition_en) parts.push(`<div class="detail-block"><div class="detail-label">Definition EN</div><div class="detail-value">${escapeHtml(s.definition_en)}</div></div>`);
+      if (s.cycle_note) parts.push(`<div class="detail-block"><div class="detail-label">Cycle note</div><div class="detail-value">${escapeHtml(s.cycle_note)}</div></div>`);
+      if (Array.isArray(s.examples) && s.examples.length){
+        parts.push('<div class="detail-block"><div class="detail-label">Examples</div><ul>');
+        s.examples.forEach(ex => parts.push(`<li>${escapeHtml(ex)}</li>`));
+        parts.push('</ul></div>');
+      }
+      const extraKeys = Object.keys(s).filter(k => !['sense_id','definition_cn','definition_en','examples','cycle_note'].includes(k));
+      extraKeys.forEach(key => {
+        const raw = s[key];
+        const value = typeof raw === 'string' ? raw : JSON.stringify(raw);
+        parts.push(`<div class="detail-block"><div class="detail-label">${escapeHtml(key)}</div><div class="detail-value">${escapeHtml(value)}</div></div>`);
+      });
+      parts.push('</div>');
+    });
+  }
+
+  const topLevelExtraKeys = Object.keys(w).filter(k => !['id','word','pos','tags','core_sense','pronunciation','senses','stats'].includes(k));
+  if (topLevelExtraKeys.length){
+    parts.push('<div class="detail-block"><div class="detail-label">Other fields</div></div>');
+    topLevelExtraKeys.forEach(key => {
+      const raw = w[key];
+      const value = typeof raw === 'string' ? raw : JSON.stringify(raw);
+      parts.push(`<div class="detail-block"><div class="detail-label">${escapeHtml(key)}</div><div class="detail-value">${escapeHtml(value)}</div></div>`);
+    });
+  }
+
   return parts.join('');
 }
 
@@ -252,9 +320,11 @@ async function showDetail(id){
   $('#detail-word').textContent = w.word;
   $('#detail-meta').textContent = (w.tags||[]).join(' • ');
   $('#detail-body').innerHTML = renderSensesHtml(w);
+  $('#detail-body').scrollTop = 0;
 
   $('#detail-speak').onclick = () => speak(w.word);
-  $('#detail-edit').onclick = () => fillForm(w);
+  $('#detail-edit').onclick = () => { closeDetailModal(); fillForm(w); };
+  openDetailModal();
 }
 
 function pickContextSentence(w){
@@ -380,6 +450,12 @@ $('#sense-template').addEventListener('click', () => {
   const cur = $('#f-senses').value.trim();
   if (cur) return;
   $('#f-senses').value = JSON.stringify(senseTemplate(), null, 2);
+});
+
+$('#detail-close').addEventListener('click', closeDetailModal);
+$('#detail-backdrop').addEventListener('click', closeDetailModal);
+document.addEventListener('keydown', (e) => {
+  if (e.key === 'Escape' && !$('#detail-modal').classList.contains('hidden')) closeDetailModal();
 });
 
 $('#word-form').addEventListener('submit', async (e) => {
@@ -523,6 +599,4 @@ if ('serviceWorker' in navigator){
 (async function init(){
   await ensureSeeded();
   await refreshAll();
-  // init detail pane
-  if (WORDS[0]) await showDetail(WORDS[0].id);
 })();

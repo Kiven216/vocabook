@@ -65,20 +65,7 @@
         <div id="library-list" class="list"></div>
       </div>
 
-      <div class="card">
-        <div class="row space">
-          <div>
-            <div class="small">Selected</div>
-            <div class="word smallword" id="detail-word">—</div>
-            <div class="small" id="detail-meta"></div>
-          </div>
-          <div class="row">
-            <button id="detail-speak" class="ghost">🔊</button>
-            <button id="detail-edit" class="ghost">Edit</button>
-          </div>
-        </div>
-        <div id="detail-body"></div>
-      </div>
+
     </section>
 
     <!-- ADD/EDIT -->
@@ -166,6 +153,25 @@
   <footer>
     <div class="small">Offline PWA • Personal vocabulary library • 🔊 uses device text-to-speech by default</div>
   </footer>
+
+  <div id="detail-modal" class="modal hidden" aria-hidden="true">
+    <div id="detail-backdrop" class="modal-backdrop"></div>
+    <div class="modal-sheet" role="dialog" aria-modal="true" aria-labelledby="detail-word">
+      <div class="modal-header">
+        <div>
+          <div class="small">Word detail</div>
+          <div class="word smallword" id="detail-word">—</div>
+          <div class="small" id="detail-meta"></div>
+        </div>
+        <div class="row">
+          <button id="detail-speak" class="ghost" type="button">🔊</button>
+          <button id="detail-edit" class="ghost" type="button">Edit</button>
+          <button id="detail-close" class="ghost" type="button" aria-label="Close">✕</button>
+        </div>
+      </div>
+      <div id="detail-body" class="modal-body"></div>
+    </div>
+  </div>
 
   <script src="app.js"></script>
 </body>
