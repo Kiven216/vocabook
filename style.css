@@ -127,13 +127,13 @@ code { background: #0f0f14; border:1px solid var(--line); padding: 1px 6px; bord
 }
 @media (max-width: 720px){
   .modal-sheet {
-    left:12px;
-    right:12px;
-    bottom:12px;
-    top:auto;
-    width:auto;
+    left:50%;
+    top:50%;
+    right:auto;
+    bottom:auto;
+    width:calc(100vw - 24px);
     max-height:66vh;
-    transform:none;
+    transform:translate(-50%, -50%);
     border-radius:20px;
   }
   .modal-header {
