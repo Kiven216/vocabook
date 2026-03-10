@@ -237,23 +237,6 @@ function renderSensesHtml(w){
     `);
   };
 
-  addBlock('ID', w.id || '—');
-  addBlock('Word', w.word || '—');
-  addBlock('Part of speech', w.pos || '—');
-  addBlock('Tags', (w.tags || []).join(', ') || '—');
-  addBlock('IPA', w.pronunciation?.ipa || '—');
-  addBlock('Core sense index', String(w.core_sense ?? 0));
-
-  const stats = w.stats || {};
-  const statsSummary = [
-    `seen: ${stats.seen ?? 0}`,
-    `correct: ${stats.correct ?? 0}`,
-    `wrong: ${stats.wrong ?? 0}`,
-    `mastery: ${stats.mastery ?? 0}`,
-    `last_seen: ${stats.last_seen || '—'}`
-  ].join(' • ');
-  addBlock('Stats', statsSummary);
-
   if (Array.isArray(w.senses) && w.senses.length){
     parts.push('<div class="detail-block"><div class="detail-label">Senses</div></div>');
     w.senses.forEach((s, idx) => {
@@ -318,7 +301,10 @@ async function showDetail(id){
   const w = await txGet(STORE, id);
   if (!w) return;
   $('#detail-word').textContent = w.word;
-  $('#detail-meta').textContent = (w.tags||[]).join(' • ');
+  const metaParts = [];
+  if (w.pos) metaParts.push(w.pos);
+  if (w.pronunciation?.ipa) metaParts.push(w.pronunciation.ipa);
+  $('#detail-meta').textContent = metaParts.join(' • ');
   $('#detail-body').innerHTML = renderSensesHtml(w);
   $('#detail-body').scrollTop = 0;
 

@@ -69,7 +69,7 @@ code { background: #0f0f14; border:1px solid var(--line); padding: 1px 6px; bord
   top:50%;
   transform:translate(-50%, -50%);
   width:min(760px, calc(100vw - 24px));
-  max-height:85vh;
+  max-height:72vh;
   background:var(--card);
   border:1px solid var(--line);
   border-radius:18px;
@@ -132,7 +132,7 @@ code { background: #0f0f14; border:1px solid var(--line); padding: 1px 6px; bord
     bottom:12px;
     top:auto;
     width:auto;
-    max-height:88vh;
+    max-height:66vh;
     transform:none;
     border-radius:20px;
   }
